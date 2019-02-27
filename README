@@ -1,0 +1,9 @@
+Webinar on dash_canvas.DashCanvas
+
+Start with installing dash_canvas with
+
+pip install dash_canvas
+
+Then run one of the apps for example
+
+python3 app4_measure_length.py
